@@ -1,0 +1,30 @@
+<html>
+	<head>
+		<title>
+			FORMS
+		</title>
+	</head>
+	<body>
+	
+	<form>
+	
+		<p><input type="text" ></p>
+		<p><input type="checkbox"></p>
+		<p><input type="radio"></p>
+		<p><input type="radio"></p>
+		
+		<select>
+			<option>INDIA</option>
+			<option>CHINA</option>
+			<option>AUSTRALIA</option>
+			<option>ENGLAND</option>
+			<option>GERMANY</option>
+			<option>SOUTH AFRICA</option>
+		</select>
+		
+		<p><input type="submit"></p>
+	
+	</form>
+	
+	</body>
+</html>
